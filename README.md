@@ -1,48 +1,19 @@
-# GitHub Pages
+# 方块纪元工作室
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+我们是方块纪元工作室，一群怀揣着对Java版MC无限热爱的小白。虽然我们初出茅庐，没有资深的开发履历，也没有一鸣惊人的爆款作品，但有的是一腔热血和满脑子新奇点子。目前团队成员各自的技术还在摸索进步阶段，不过在不断学习Java开发知识，研究MC游戏机制，从最基础的方块搭建逻辑学起，努力提升模组开发、地图制作能力。未来，我们立志创作出能让玩家眼前一亮的独特玩法模组，精心打造充满惊喜与挑战的原创地图，在Java版MC的开发领域站稳脚跟，给大家带来别具一格的方块世界冒险体验 ，希望大家多多支持我们！
 
-## Welcome
+## 欢迎查看本网页 
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-
-- **How long**: This exercise takes less than one hour to complete.
-
-In this exercise, you will:
-
-1. Enable GitHub Pages
-1. Configure your site
-1. Customize your home page
-1. Create a blog post
-1. Merge your pull request
+方块世纪工作室，一个在游戏与创意领域不断探索前行的团队，致力于为玩家和创作者带来独特且富有乐趣的体验。无论你是充满好奇的初学者、怀揣梦想的学生，还是经验丰富的项目维护者、独具慧眼的小商家，这里都有属于你的精彩。
 
 
-### How to start this exercise
+### 核心方向
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
-
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=Exercise:+Create+a+site+or+blog+from+your+GitHub+repositories+with+GitHub+Pages&visibility=public)
-
-<details>
-<summary>Having trouble? 🤷</summary><br/>
-
-When copying the exercise, we recommend the following settings:
-
-- For owner, choose your personal account or an organization to host the repository.
-
-- We recommend creating a public repository, since private repositories will use Actions minutes.
-
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
-
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
-
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
-
-</details>
+- 模组开发：为Minecraft Java版打造功能性与趣味性兼具的Forge模组，如《破损弓》系列真实损坏机制模组。
+- 地图创作：设计生存、解谜、探险等主题地图，支持1.19.2及以上版本，注重玩法创新与细节打磨。
+- 技术分享：通过开源项目与教程，帮助开发者掌握模组开发基础与地图设计技巧。
+ 
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 方块纪元工作室 &bull; [MIT开源许可](https://gh.io/mit)
